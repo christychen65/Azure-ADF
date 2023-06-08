@@ -9,6 +9,7 @@ This instruction manual aims to demonstrate a sample of work using Azure ADF wit
 * [5. Create SQL Database](#5)
 * [6. Azure Data Factory](#6)
 * [7. Azure Data Studio](#7)
+* [8. Azure Data Factory - Launch Studio](#8)
 
 <a id="1"></a>
 ### 1. Subscription
@@ -63,5 +64,13 @@ This instruction manual aims to demonstrate a sample of work using Azure ADF wit
 <img width="936" alt="Screenshot 2023-05-23 at 15 01 14" src="https://github.com/christychen65/Azure-ADF/assets/132826012/d1f9f4b7-364b-4b9e-adaa-6720308033b3">
 <img width="936" alt="Screenshot 2023-05-23 at 15 01 21" src="https://github.com/christychen65/Azure-ADF/assets/132826012/b853d8c9-3771-47e2-8cc7-0c03d5947d8b">
 
+<a id="8"></a>
+### 8. Azure Data Factory - Launch Studio
+* Go back to Azure Data Factory and click on the data factory (adfcba) we created before.
+<img width="936" alt="Screenshot 2023-06-03 at 22 36 57" src="https://github.com/christychen65/Azure-ADF/assets/132826012/c4befc38-f161-4f77-867c-cd86fa10ca1c">
 
+*  Click on Launch Studio. Then, you will be directing to a new data azure factory page.
+<img width="936" alt="Screenshot 2023-06-03 at 22 37 15" src="https://github.com/christychen65/Azure-ADF/assets/132826012/aa1d54c7-4710-4408-8d14-dc2b983b0bf0">
+
+<img width="936" alt="Screenshot 2023-06-03 at 22 56 06" src="https://github.com/christychen65/Azure-ADF/assets/132826012/74202a6e-5f73-4081-86bf-daa2d7565689">
 
